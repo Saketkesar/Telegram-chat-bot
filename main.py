@@ -1,4 +1,5 @@
-
+#pip install python-telegram-bot
+import python-telegram-bot
 from telegram.ext import *
 
 import keys
